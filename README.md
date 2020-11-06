@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer with an interest in C++ and Swift. 
+I'm a developer with an interest in C++, JS and Swift. 
 
 🔭 I'm currently working on:
 
