@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-I'm a developer with an interest in C++, JS and Swift. 
+I'm a developer with an interest in C++, Python, JS and Swift. 
 
 🔭 I'm currently working on:
 
-- A VideoPlayer in SwiftUI that allows yout to directly access its underlying AVPlayerViewController object, and its delegate.
-- An FFmpeg build script that builds it to a XCframework, and is continuously updated in line with new releases of FFmpeg, using Github Actions for CI.
-- A Swift package for the above XCframework.
-
-🌱 I’m currently learning UIKit and SwiftUI, as well as trying to get a working knowledge of bash scipting for my projects
+- An AWS Amplify transformer that allows for nested filtering of GraphQL queries to AWS Appsync.
 
 👯 I’m open to collaborate on all my public projects so send me a PR.
 
