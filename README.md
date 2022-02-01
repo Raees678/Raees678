@@ -2,11 +2,6 @@
 
 I'm a developer with an interest in Rust, Elixir, Python, C++ and Swift. 
 
-🔭 I'm currently working on:
-
-- An AWS Amplify transformer that allows for nested filtering of GraphQL queries to AWS Appsync.
-
-👯 I’m open to collaborate on all my public projects so send me a PR.
 
 
 
