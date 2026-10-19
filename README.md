@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer with an interest in Rust, Elixir, Python, C++ and Swift. 
+⚙️ Building things with Python, Typescript, PHP, Rust, Elixir, C++ and Swift. 
 
 
 
