@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 ⚙️ Building things with Python, Typescript, PHP, Rust, Elixir, C++ and Swift. 
 
